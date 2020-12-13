@@ -1,0 +1,78 @@
+.table__row {
+  font-size: 10px !important;
+  color: grey !important;
+  text-align: left !important;
+  padding-bottom: 5px !important;
+}
+.table__row__values {
+  border: 1px solid rgba(224, 224, 224, 1) !important;
+}
+.table_row_text {
+  font-size: 10px !important;
+  font-weight: 550 !important;
+  width: 130px;
+}
+.basicTableLeft {
+  width: 30% !important;
+  float: left;
+  border: 1px solid rgba(224, 224, 224, 1) !important;
+  padding-left: 10px !important;
+  margin-top: 40px !important;
+  margin-bottom: 40px !important;
+}
+.green {
+  color: #93ca95 !important;
+}
+.lefthand__tbody {
+  width: 81% !important;
+  float: right;
+  margin: 93px 10px !important;
+}
+.circles {
+  height: 12px;
+  width: 12px;
+  background-color: #3fb6dc;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: -50px !important;
+  margin-bottom: -23px !important;
+  border: 4px solid #d5deff;
+  z-index: 2;
+}
+hr {
+  border: 1px solid #3fb6dc;
+  width: 26px;
+  margin-left: -28px !important;
+  margin-bottom: -27px !important;
+}
+.vl {
+  border-left: 2px dashed #2e5bff;
+   height: 660px; 
+  margin: 50px 0 30px 26px;
+  z-index: -1;
+  display: inline-grid;
+}
+.destination {
+  display: block;
+  margin: 5px 0 -37px 20px;
+}
+.circleLarge {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #d5deff !important;
+  display: inline-block;
+  margin: 0px 0 -42px 7px;
+}
+.circleBottom {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #d5deff !important;
+  display: inline-block;
+  margin: 0px 0 20px 7px;
+}
+.warehouse {
+  display: block;
+  margin: -59px 0 43px 14px;
+}

@@ -1,0 +1,23 @@
+.card-container {
+  width: 70px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 5px 16px;
+  background-color: #d5deff;
+  color: #2e5bff;
+  margin: 10px;
+  .title {
+    margin-top: 0;
+    width: 30%;
+  }
+  .count {
+    width: 80px;
+    font-size: 30px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+  &.isActive {
+    background-color: #2e5bff;
+    color: #d5deff;
+  }
+}
